@@ -1,0 +1,28 @@
+.report-main {
+  max-width: 900px;
+  margin: 0 ;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  .report-form{
+    margin-bottom: 40px;
+    .section-title {
+      margin-bottom: 20px;
+      font-size: 20px;
+    }
+    .section-row {
+      margin-bottom: 15px;
+      display: flex;
+      gap:10px;
+      .section-value {
+        color: rgb(109, 106, 106);
+      }
+    }
+  }
+}
+
+
+
+
+
+
